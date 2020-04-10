@@ -1,4 +1,4 @@
-# Classificação de texto utilizando ponderação de pesos e as redes GRU Bidirecional e Attention LSTM.
+# Classificação de texto utilizando ponderação de pesos nas redes GRU Bidirecional e Attention LSTM.
 
 Dentro da pasta datasets deverá conter 2 arquivos. 
 
