@@ -10,4 +10,6 @@ Dentro da pasta aux_data já contém os arquivos de pesos para cada classe. Se p
 
 Para rodar o código, digite python3 main.py no terminal do Ubuntu.
 
+O programa gera como resultado as curvas de Acurácia e loss do treinamento e validação. Além disso, o valor acurácia e a matriz de confusão para ambas as redes também são mostradas.
+
 
