@@ -96,7 +96,7 @@ X = tokenizer.texts_to_sequences(df.text)
 df['words'] = X
 #%%
 #pre-processamento no texto
-#retira dados em word muito curtos que não dê para identificar a categoria
+#retira noticias que tem numero de palavras menores que 5
 df['word_length'] = df.words.apply(lambda i: len(i))
 df = df[df.word_length >= 5]
 #%%
