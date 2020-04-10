@@ -191,7 +191,7 @@ for k, _ in cates:
     x.shape = (len(x), 1)
     alist.append(np.multiply(x, embedding_matrix))
         
-embedding_matrix_final=np.stack(alist) #matriz dos I's final. Cada I é uma matriz de pesos correspondente para cada classe
+embedding_matrix_final=np.stack(alist) #matriz de embeddings final. Cada classe conterá uma matriz de pesos correspondente.
 #%%
 #Preparação dos dados que irão entrar para a rede neural
 X = np.array(X)
