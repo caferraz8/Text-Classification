@@ -1,6 +1,6 @@
 # Classificação de texto utilizando ponderação de pesos nas redes GRU Bidirecional e Attention LSTM.
 
-O algoritmo desenvolvido foi baseado no artigo de Guo et al. (2019) [1], onde obtêm-se uma matriz termo-documento utilizando uma pesagem pela equação TF-IDF. Para a classificação do texto News_Category_Dataset.json (página: https://www.kaggle.com/rmisra/news-category-dataset) foi utilizada duas redes neurais: GRU Bidirecional e Attention LSTM.
+O algoritmo desenvolvido foi baseado no artigo de Guo et al. (2019) [1], onde obtêm-se uma matriz termo-documento utilizando uma pesagem pela equação TF-IDF. Para a classificação do texto News_Category_Dataset.json (página: https://www.kaggle.com/rmisra/news-category-dataset) foram utilizadas duas redes neurais: GRU Bidirecional e Attention LSTM.
 
 Para rodar o código siga as seguintes instruções:
 
