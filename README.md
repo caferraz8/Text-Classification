@@ -16,6 +16,8 @@ Para rodar o código, digite python3 main.py no terminal.
 
 O programa gera como resultado as curvas de Acurácia e loss do treinamento e validação. Além disso, o valor acurácia e a matriz de confusão para ambas as redes também são mostradas.
 
+Acurácia obtida para o Attention LSTM: 71.27%
+Acurácia obtida para o GRU Bidirecional: 67.51%
 
 Referências Bibliográficas:
 
