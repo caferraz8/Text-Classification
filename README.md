@@ -18,6 +18,7 @@ O programa gera como resultado as curvas de Acurácia e loss do treinamento e va
 
 
 Referências Bibliográficas:
+
 [1]  Bao  Guo,  Chunxia  Zhang,  Junmin  Liu,  and  Xiaoyi  Ma.   Improving  text  clas-sification  with  weighted  word  embeddings  via  a  multi-channel  textcnn  model.Neurocomputing, 363:366 – 374, 2019.
 
 
